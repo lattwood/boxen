@@ -59,3 +59,19 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "osx",					"2.7.1"
+github "virtualbox",  "1.0.13"
+github "dash",				"1.0.0"
+github "github_for_mac", "1.0.3"
+github "fonts",				"0.0.3"
+github "vagrant",			"3.1.1"
+github "vagrant_manager", "0.0.1"
+github "jq",					"1.0.0"
+github "gimp",				"1.0.1"
+github "zsh",					"1.0.0"
+github "tmux",				"1.0.2"
+github "chrome",			"1.2.0"
+github "iterm2",			"1.2.0"
+github "firefox",			"1.2.2"
+
